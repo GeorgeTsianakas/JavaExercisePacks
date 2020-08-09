@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class DoWhileLoopModify {
 
-    public static int getNumbers(){
+    public static int getNumbers() {
         Scanner sc = new Scanner(System.in);
         return sc.nextInt();
     }
